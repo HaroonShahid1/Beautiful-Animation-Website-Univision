@@ -1,6 +1,6 @@
 # UNIVISION Website 💫
 
-Welcome to the Beautiful Animation Pages Collection repository! ✨
+ ✨
 
 ## Overview
 
