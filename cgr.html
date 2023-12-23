@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    @keyframes fadeInOut {
+      0% { opacity: 0; }
+      50% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    
+    .centered-text {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 40px;
+      font-weight: bold;
+      text-align: center;
+      animation: fadeInOut 3s linear infinite;
+      color: rgb(66, 66, 112);
+    }
+  </style>
+</head>
+<body>
+  <div class="centered-text">
+    Congratulations!<br>
+    Your Universities List is Mailed to you
+  </div>
+</body>
+</html>
